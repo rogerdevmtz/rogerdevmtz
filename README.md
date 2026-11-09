@@ -8,7 +8,7 @@ Diseño y desarrollo webs para empresas y profesionales. Identidad visual, exper
 
 <a href="https://rogermtz.com/proyectos/villa-mia/"><picture><source media="(max-width: 600px)" srcset="./villa-mia-actions-mobile.jpg" /><img src="./villa-mia-actions.jpg" width="1280" alt="01. Villa Mia. Reserva directa, pagos online y una sola agenda. Ver el caso de diseño y desarrollo web para este alojamiento turístico." /></picture></a>
 
-<a href="https://rogermtz.com/proyectos/parrillada-alcume/"><picture><source media="(max-width: 600px)" srcset="./parrillada-alcume-actions-mobile.jpg" /><img src="./parrillada-alcume-actions.jpg" width="1280" alt="02. Parrillada Alcume. La identidad del restaurante. La reserva, a un paso. Ver el caso de diseño web con carta digital y reservas propias." /></picture></a>
+<a href="https://rogermtz.com/proyectos/taberna-del-chipiron/"><picture><source media="(max-width: 600px)" srcset="./taberna-del-chipiron-actions-mobile.jpg" /><img src="./taberna-del-chipiron-actions.jpg" width="1280" alt="02. La Taberna del Chipirón. Carta, reserva y ubicación con identidad propia. Ver el caso de diseño web con carta interactiva y reserva telefónica." /></picture></a>
 
 ### Código, automatización e IA
 
