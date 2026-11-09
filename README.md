@@ -1,43 +1,25 @@
-<a href="https://rogermtz.com/">
-  <img src="./profile-header.png" width="100%" alt="Roger Martinez. Diseño, desarrollo y criterio. Estrategia, diseño y desarrollo web desde A Coruña." />
-</a>
+<a href="https://rogermtz.com/"><picture><source media="(max-width: 600px)" srcset="./profile-header-mobile.png" /><img src="./profile-header.png" width="1280" alt="Roger Martinez. Diseño, desarrollo y criterio en la misma mesa. Webs a medida, de la primera idea a la publicación. Ver mi trabajo en rogermtz.com." /></picture></a>
 
-### Soy Roger, diseñador y desarrollador web.
+Diseño y desarrollo webs para empresas y profesionales. Identidad visual, experiencia móvil, accesibilidad y rendimiento. Desde **A Coruña**, en remoto para toda España.
 
-Creo webs a medida para empresas y profesionales. Trabajo desde la estructura y la identidad visual hasta el desarrollo y la publicación, con especial atención a la experiencia móvil, la accesibilidad y el rendimiento.
+[Portfolio](https://rogermtz.com/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/rogermtz/) &nbsp; / &nbsp; [Contacto](mailto:contacto@rogermtz.com)
 
-Desde A Coruña, en remoto para toda España. También me estoy formando en **AI Engineering** y desarrollo proyectos de automatización e inteligencia artificial.
+<a href="https://rogermtz.com/#proyectos"><picture><source media="(max-width: 600px)" srcset="./work-intro-mobile.png" /><img src="./work-intro.png" width="1280" alt="Proyectos seleccionados. Cada web empieza por una decisión." /></picture></a>
 
-**[Portfolio ↗](https://rogermtz.com/)** &nbsp; · &nbsp; **[LinkedIn ↗](https://www.linkedin.com/in/rogermtz/)** &nbsp; · &nbsp; **[Hablemos ↗](mailto:contacto@rogermtz.com)**
+<a href="https://rogermtz.com/proyectos/villa-mia/"><picture><source media="(max-width: 600px)" srcset="./villa-mia-mobile.jpg" /><img src="./villa-mia.jpg" width="1280" alt="01. Villa Mia. Reserva directa, pagos online y una sola agenda. Ver el caso de diseño y desarrollo web para este alojamiento turístico." /></picture></a>
 
----
+<a href="https://rogermtz.com/proyectos/parrillada-alcume/"><picture><source media="(max-width: 600px)" srcset="./parrillada-alcume-mobile.jpg" /><img src="./parrillada-alcume.jpg" width="1280" alt="02. Parrillada Alcume. La identidad del restaurante. La reserva, a un paso. Ver el caso de diseño web con carta digital y reservas propias." /></picture></a>
 
-### Cada web empieza por una decisión.
+### Código, automatización e IA
 
-<a href="https://rogermtz.com/#proyectos">
-  <img src="./selected-work.jpg" width="100%" alt="Proyectos seleccionados: Villa Mia, alojamiento turístico con reservas y pagos online; Parrillada Alcume, web de restaurante con carta digital y reservas propias." />
-</a>
+Me estoy formando en **AI Engineering**. Aquí comparto proyectos de desarrollo y automatización:
 
-**[Villa Mia ↗](https://rogermtz.com/proyectos/villa-mia/)**  
-Web de alojamiento turístico con reserva y pago online, sincronización con Airbnb y Booking y una app de gestión.
+| Proyecto | Qué construyo |
+| :--- | :--- |
+| [SnackCheck](https://github.com/rogerdevmtz/snackcheck-nutrition-api) | Workflow de n8n para evaluar productos por su código de barras. |
+| [TrackFlow](https://github.com/rogerdevmtz/ai-engineering-trackflow) | Proyecto de formación sobre automatización logística. |
+| [DANZ](https://github.com/rogerdevmtz/rogerdevmtz-danz-artist-website) | Landing para un DJ de A Coruña con accesibilidad y datos estructurados. |
 
-**[Parrillada Alcume ↗](https://rogermtz.com/proyectos/parrillada-alcume/)**  
-La identidad del restaurante llevada a la web, con carta digital, menús de grupo y un sistema de reservas propio.
+**HTML · CSS · JavaScript · TypeScript · Astro · Python · n8n · APIs**
 
-**[Ver todos los proyectos ↗](https://rogermtz.com/#proyectos)**
-
-### También construyo con código e IA.
-
-- **[SnackCheck](https://github.com/rogerdevmtz/snackcheck-nutrition-api)** — Workflow de n8n para evaluar productos mediante su código de barras.
-- **[TrackFlow](https://github.com/rogerdevmtz/ai-engineering-trackflow)** — Proyecto de formación en AI Engineering centrado en automatización logística.
-- **[DANZ](https://github.com/rogerdevmtz/rogerdevmtz-danz-artist-website)** — Landing para un DJ de A Coruña con HTML, CSS, accesibilidad y datos estructurados.
-
-### Herramientas y tecnologías
-
-**Web** &nbsp; HTML · CSS · JavaScript · TypeScript · Astro  
-**Automatización e IA** &nbsp; Python · n8n · APIs  
-**En cada proyecto** &nbsp; Identidad visual · Accesibilidad · SEO · Rendimiento
-
----
-
-**¿Tienes un proyecto en mente?** [Cuéntame tu caso ↗](https://rogermtz.com/#contacto)
+<a href="mailto:contacto@rogermtz.com"><picture><source media="(max-width: 600px)" srcset="./contact-mobile.png" /><img src="./contact.png" width="1280" alt="Hablemos. Tu próximo proyecto empieza aquí. Escribe a contacto@rogermtz.com." /></picture></a>
