@@ -1,4 +1,4 @@
-<a href="https://rogermtz.com/"><picture><source media="(max-width: 600px)" srcset="./profile-header-mobile.png" /><img src="./profile-header.png" width="1280" alt="Roger Martinez. Diseño, desarrollo y criterio en la misma mesa. Webs a medida, de la primera idea a la publicación. Ver mi trabajo en rogermtz.com." /></picture></a>
+<a href="https://rogermtz.com/"><picture><source media="(max-width: 600px)" srcset="./profile-cover-mobile.png" /><img src="./profile-cover.png" width="1280" alt="Roger Martinez. Diseño, desarrollo y criterio en la misma mesa. Webs a medida, de la primera idea a la publicación. Ver mi trabajo en rogermtz.com." /></picture></a>
 
 Diseño y desarrollo webs para empresas y profesionales. Identidad visual, experiencia móvil, accesibilidad y rendimiento. Desde **A Coruña**, en remoto para toda España.
 
